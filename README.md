@@ -1,5 +1,6 @@
 # Summer-Research-Internship-Programs
 Don't forget to join the awesome LWM community for more resources like this: [Learn With Mitul Community](https://discord.gg/yzegezxsd8)
+<br>Check out this video for more information about this video : https://youtu.be/vzVnRxU7AJo
 ### Programs:
 1.  [MIT Summer Research Program , MIT ](https://oge.mit.edu/graddiversity/msrp/) **15Nov-10Jan**
 1.   [HSCI Internship Program (HIP) , Harvard](https://hsci.harvard.edu/research/hsci-internship-program-hip)
