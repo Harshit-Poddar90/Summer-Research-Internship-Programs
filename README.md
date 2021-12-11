@@ -1,6 +1,6 @@
 # Summer-Research-Internship-Programs
-1.  [MIT Summer Research Program ](https://oge.mit.edu/graddiversity/msrp/) **15Nov-10Jan**
-1.   [HSCI Internship Program (HIP)](https://hsci.harvard.edu/research/hsci-internship-program-hip)
+1.  [MIT Summer Research Program ](https://oge.mit.edu/graddiversity/msrp/)by MIT **15Nov-10Jan**
+1.   [HSCI Internship Program (HIP)](https://hsci.harvard.edu/research/hsci-internship-program-hip)by Harvard
 2.  [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships) **3 application**
 3.  [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education) **2 applications**
 4.  [Adobe WIT](https://research.adobe.com/forms/adobe-india-women-in-technology-scholarship/) **1 application from alternate e-id**
@@ -66,3 +66,9 @@
 23. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
 24. [SRIP](https://srip.iitgn.ac.in/info/), IIT Gandhinagar
 25. [IIT Ropar Summer Internship](https://onlineportal.iitrpr.ac.in/sia-21)[ [Information]](https://www.iitrpr.ac.in/sites/default/files/Advertisement%20for%20Summer%20Internship%202021.pdf), IIT Ropar
+
+
+
+### Apply Process:
+1. Apply when the application opens
+2. Mail the professor you want to work under and get selected for the program . **[Note : You will find the professor's mail from the  university's departmental pages .]**
