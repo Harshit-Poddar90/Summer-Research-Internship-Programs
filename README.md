@@ -1,22 +1,25 @@
 # Summer-Research-Internship-Programs
-1.  [MIT Summer Research Program ](https://oge.mit.edu/graddiversity/msrp/)by MIT **15Nov-10Jan**
-1.   [HSCI Internship Program (HIP)](https://hsci.harvard.edu/research/hsci-internship-program-hip)by Harvard
-2.  [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships) **3 application**
-3.  [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education) **2 applications**
-4.  [Adobe WIT](https://research.adobe.com/forms/adobe-india-women-in-technology-scholarship/) **1 application from alternate e-id**
-5.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada. **Application opens in August**
-6.  [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) **Application opens in November**
-7.  [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/) **Application opens in November**
-8.  [Summer at EPFL](https://summer.epfl.ch/) **Application opens in November**
-9.  [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU **Application opens in November**
-10.  [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute **Application opens in November**
-11.  [CERN Summer Student Program](https://careers.cern/summer) **Application opens in September**
-12.  [ISTernship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria **Check in Feb 2022**
-13.  [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information) **Check back in Nov, contact prof.**
-14.  [Caltech Summer Undergraduate Research Fellowship](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), **This program is open to Caltech and non-Caltech undergraduate students pursuing degrees in science, technology, engineering or mathematics.Open to U.S. citizens and lawful permanent residents (LPRs).**
-15. [The SFI Undergraduate Complexity Research (UCR) program](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
-16. [UROP International – Information for Students](https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1) **Undergraduate students from North American universities who have a GPA of 3.2**
-1 [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan [April]
+Don't forget to join the awesome LWM community for more resources like this: [Learn With Mitul Community](https://discord.gg/yzegezxsd8)
+### Programs:
+1.  [MIT Summer Research Program , MIT ](https://oge.mit.edu/graddiversity/msrp/) **15Nov-10Jan**
+1.   [HSCI Internship Program (HIP) , Harvard](https://hsci.harvard.edu/research/hsci-internship-program-hip)
+2.   [Summer Research Program , Princeton University](https://undergraduateresearch.princeton.edu/programs/summer-programs?field_princeton_status_eligibili_value=Non-Princeton+undergrads&field_class_year_eligibility_value=Juniors&field_division_value=Engineering) [check in early 2022]
+3.  [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships) **3 application**
+4.  [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education) **2 applications**
+5.  [Adobe WIT](https://research.adobe.com/forms/adobe-india-women-in-technology-scholarship/) **1 application from alternate e-id**
+6.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada. **Application opens in August**
+7.  [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) **Application opens in November**
+8.  [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/) **Application opens in November**
+9.  [Summer at EPFL](https://summer.epfl.ch/) **Application opens in November**
+10.  [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU **Application opens in November**
+11.  [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute **Application opens in November**
+12.  [CERN Summer Student Program](https://careers.cern/summer) **Application opens in September**
+13.  [ISTernship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria **Check in Feb 2022**
+14.  [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information) **Check back in Nov, contact prof.**
+15.  [Caltech Summer Undergraduate Research Fellowship](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), **This program is open to Caltech and non-Caltech undergraduate students pursuing degrees in science, technology, engineering or mathematics.Open to U.S. citizens and lawful permanent residents (LPRs).**
+16. [The SFI Undergraduate Complexity Research (UCR) program](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
+17. [UROP International – Information for Students](https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1) **Undergraduate students from North American universities who have a GPA of 3.2**
+18. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan [April]
 18. [Amgen Scholars Program](amgenscholars.com/asia-program) [not reseach]
 19. [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
 20. [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program)
@@ -25,10 +28,9 @@
 23. [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/) [applications open Jan 15]
 24. [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/) [september]
 25. [The Smithsonian Institution Fellowship Program (SIFP)](https://www.smithsonianofi.com/fellowship-opportunities/smithsonian-institution-fellowship-program/) [Closed opens november i think]
-26. [Data Visualization Programming Summer Student Internship in New York City](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue/Data-Visualization-Intern--SCC_R0000579), Flatiron Institute. []
+26. [Data Visualization Programming Summer Student Internship in New York City](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue/Data-Visualization-Intern--SCC_R0000579), Flatiron Institute. 
 27. [Summer Intern at the Kupcinet Getz International Summer Science School of the Weizmann Institute of Science](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0) [not loading]
 28. [Aalto Science Institute (AScI) Summer Trainees 2021](https://www.aalto.fi/en/open-positions/aalto-science-institute-asci-summer-trainees-2021)[no register]
-29. [Summer Research Program, Princeton University](https://undergraduateresearch.princeton.edu/programs/summer-programs?field_princeton_status_eligibili_value=Non-Princeton+undergrads&field_class_year_eligibility_value=Juniors&field_division_value=Engineering) [check in early 2022]
 30. [UX Research Internship, Red Hat](https://us-redhat.icims.com/jobs/83084/remote-us-nc/job) [NA]
 31. [Summer Training Program,CNIO](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
 32. [ITRI Global Internship program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)
